@@ -5,9 +5,9 @@
     may cause the program to crash or performance losses due to the windows opened in memory due
     to the function being called too many times.
     For this reason, we will not use a recursive function in our next example,
-    the factorial calculation program. We will solve it with a different solution method.
+    the part1BasicTypesAndControlFlowsAndLoopsAndFunctions.endOfSectionProblems.factorial calculation program. We will solve it with a different solution method.
  */
-package fibonacciSequnce
+package part1BasicTypesAndControlFlowsAndLoopsAndFunctions.endOfSectionProblems.fibonacciSequnce
 
 fun main(){
     val input = readln().toInt()
