@@ -1,4 +1,4 @@
-package part1BasicTypesAndControlFlowsAndLoopsAndFunctions.endOfSectionProblems.factorial
+package section1BasicTypesAndControlFlowsAndLoopsAndFunctions.endOfSectionProblems.factorial
 
 fun main(){
     println("Enter a number to find its part1BasicTypesAndControlFlowsAndLoopsAndFunctions.endOfSectionProblems.factorial")

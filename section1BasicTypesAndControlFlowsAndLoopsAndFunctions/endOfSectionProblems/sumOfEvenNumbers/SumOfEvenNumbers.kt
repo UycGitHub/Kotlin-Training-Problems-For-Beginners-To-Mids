@@ -8,7 +8,7 @@
  * Use an accumulator variable to keep the sum of even numbers.
  */
 
-package part1BasicTypesAndControlFlowsAndLoopsAndFunctions.endOfSectionProblems.sumOfEvenNumbers
+package section1BasicTypesAndControlFlowsAndLoopsAndFunctions.endOfSectionProblems.sumOfEvenNumbers
 
 fun main() {
     println("Please enter a number to calculate the sum of all even numbers up to it:")

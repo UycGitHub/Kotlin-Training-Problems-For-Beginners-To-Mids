@@ -4,7 +4,7 @@
 * that takes a string and returns true if the string is a palindrome, and false otherwise.
 * Ignore case and non-alphanumeric characters.
 */
-package part1BasicTypesAndControlFlowsAndLoopsAndFunctions.endOfSectionProblems.palindrom
+package section1BasicTypesAndControlFlowsAndLoopsAndFunctions.endOfSectionProblems.palindrom
 
 fun main() {
     println("Please enter a string to check if it is a part1BasicTypesAndControlFlowsAndLoopsAndFunctions.endOfSectionProblems.palindrom:")
