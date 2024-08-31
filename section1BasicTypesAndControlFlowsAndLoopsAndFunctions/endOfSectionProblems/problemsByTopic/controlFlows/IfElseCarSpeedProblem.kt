@@ -5,19 +5,11 @@ fun main() {
     val speed = readln().toInt()
     if(speed < 0) {
         println("Please enter a valid speed")
-    }else {
-        println(trafficTicketDedector(speed))
-    }
-}
-
-fun trafficTicketDedector(speed: Int): String {
-    // Write a function that takes in a speed and returns a string that says "No ticket" if the speed is less than 60,
-    // "Small ticket" if the speed is between 60 and 80, and "Big ticket" if the speed is greater than 80.
-    if(speed <=59) {
-        return "No ticket"
+    }else if(speed <=59) {
+        println("No ticket")
     } else if(speed in 60..79) {
-        return "Small ticket"
+        println("Small ticket")
     } else {
-        return "Big ticket"
+        println("Big ticket")
     }
 }
