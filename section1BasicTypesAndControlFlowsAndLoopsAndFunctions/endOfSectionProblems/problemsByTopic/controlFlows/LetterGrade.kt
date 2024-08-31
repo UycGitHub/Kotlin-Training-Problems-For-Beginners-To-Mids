@@ -16,5 +16,3 @@ fun main() {
     }
     println("Your grade and result is $result")
 }
-
-
