@@ -1,4 +1,4 @@
-package section1BasicTypesAndControlFlowsAndLoopsAndFunctions.endOfSectionProblems.problemsByTopic.loops
+package section1BasicTypesAndControlFlowsAndLoopsAndFunctions.problemsByTopic.loops
 //while and for loop to calculate the sum of numbers in an array
 fun main(){
     var numberArray = intArrayOf()

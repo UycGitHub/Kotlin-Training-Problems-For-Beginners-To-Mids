@@ -1,4 +1,4 @@
-package section1BasicTypesAndControlFlowsAndLoopsAndFunctions.endOfSectionProblems.problemsByTopic.controlFlows
+package section1BasicTypesAndControlFlowsAndLoopsAndFunctions.problemsByTopic.controlFlows
 
 fun main() {
     println("Enter your grade")

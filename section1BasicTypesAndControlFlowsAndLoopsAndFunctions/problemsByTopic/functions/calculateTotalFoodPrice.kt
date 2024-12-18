@@ -9,7 +9,7 @@
     It will take as input the meal price (Double), the number of people (Int), and the total tip (Int).
     The function will return two values: the total price and the price per person (both must be of type Double).
  */
-package section1BasicTypesAndControlFlowsAndLoopsAndFunctions.endOfSectionProblems.problemsByTopic.functions
+package section1BasicTypesAndControlFlowsAndLoopsAndFunctions.problemsByTopic.functions
 
 fun main() {
     println("Please enter the price of the meal:")

@@ -5,7 +5,7 @@
     * For example, the odd numbers between 1 and 10 are 1, 3, 5, 7, and 9.
     * You will do this using a "for" loop and a "range".
  */
-package section1BasicTypesAndControlFlowsAndLoopsAndFunctions.endOfSectionProblems.problemsByTopic.loops
+package section1BasicTypesAndControlFlowsAndLoopsAndFunctions.problemsByTopic.loops
 
 fun main() {
     println("Odd numbers between 1 and your input:")

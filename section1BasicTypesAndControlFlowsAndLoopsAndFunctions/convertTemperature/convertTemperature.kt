@@ -4,7 +4,7 @@ The program should take a value and a unit to convert from and a unit to convert
 The units should be represented as strings, for example "Fahrenheit", "Celsius", or "Kelvin".
 The program should convert the temperature and print the result.
  */
-package section1BasicTypesAndControlFlowsAndLoopsAndFunctions.endOfSectionProblems.convertTemperature
+package section1BasicTypesAndControlFlowsAndLoopsAndFunctions.convertTemperature
 
 fun main(){
     println("Enter the value you want to convert:")

@@ -8,7 +8,7 @@ The program should print "Too high" if the guess is too high,
 "Too low" if the guess is too low, and
 "You got it!" if the guess is correct.
  */
-package section1BasicTypesAndControlFlowsAndLoopsAndFunctions.endOfSectionProblems.problemsByTopic.loops
+package section1BasicTypesAndControlFlowsAndLoopsAndFunctions.problemsByTopic.loops
 
 import kotlin.random.Random
 

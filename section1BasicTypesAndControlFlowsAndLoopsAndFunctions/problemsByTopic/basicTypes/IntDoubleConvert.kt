@@ -1,4 +1,4 @@
-package section1BasicTypesAndControlFlowsAndLoopsAndFunctions.endOfSectionProblems.problemsByTopic.basicTypes
+package section1BasicTypesAndControlFlowsAndLoopsAndFunctions.problemsByTopic.basicTypes
 
 fun main(){
     println("Which type of conversion do you want to do?" +

@@ -7,7 +7,7 @@
     For this reason, we will not use a recursive function in our next example,
     the part1BasicTypesAndControlFlowsAndLoopsAndFunctions.endOfSectionProblems.factorial calculation program. We will solve it with a different solution method.
  */
-package section1BasicTypesAndControlFlowsAndLoopsAndFunctions.endOfSectionProblems.fibonacciSequnce
+package section1BasicTypesAndControlFlowsAndLoopsAndFunctions.fibonacciSequnce
 
 fun main(){
     val input = readln().toInt()

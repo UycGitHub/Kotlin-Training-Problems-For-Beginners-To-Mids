@@ -9,7 +9,7 @@ Ignore case by converting the string to a common case (e.g., lowercase).
 Consider vowels to be 'a', 'e', 'i', 'o', 'u' and consonants to be any alphabetical character that is not a vowel.
  */
 
-package section1BasicTypesAndControlFlowsAndLoopsAndFunctions.endOfSectionProblems.countVovelsAndConstants
+package section1BasicTypesAndControlFlowsAndLoopsAndFunctions.countVovelsAndConstants
 
 import java.util.*
 
